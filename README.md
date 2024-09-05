@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any software development platform.
 - 📫 How to reach me...please sent me email.
 - 😄 Pronouns: ... introvert 
-- ⚡ Fun fact: ... first fix the hug nit bug..
+- ⚡ Fun fact: ... first fix the hug not bug..
 
 <!---
 md-maruf-98/md-maruf-98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
